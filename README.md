@@ -4,7 +4,7 @@
 
 **AeroViz-3D-Routes** (AeroViz3D) is an interactive 3D web application that visualizes flight routes between major global airports. The app is built with modern web technologies (React + Vite) and renders routes using WebGL / Three.js (or similar) on a globe.  
 
-You can view a live demo here: [aeroviz-3d-routes.vercel.app](https://aeroviz-3d-routes.vercel.app)  [oai_citation:0‡GitHub](https://github.com/mrohan2203/aeroviz-3d-routes/tree/main)
+You can view a live demo here: [aeroviz-3d-routes.vercel.app](https://aeroviz-3d-routes.vercel.app)
 
 ---
 
