@@ -1,21 +1,33 @@
-<<<<<<< HEAD
-# aeroviz-3d
-AeroViz3D is an interactive, 3D web application that visualizes flight routes between major global airports.
-=======
-# React + Vite
+# AeroViz-3D-Routes 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## What is this
 
-Currently, two official plugins are available:
+**AeroViz-3D-Routes** (AeroViz3D) is an interactive 3D web application that visualizes flight routes between major global airports. The app is built with modern web technologies (React + Vite) and renders routes using WebGL / Three.js (or similar) on a globe.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+You can view a live demo here: [aeroviz-3d-routes.vercel.app](https://aeroviz-3d-routes.vercel.app)  [oai_citation:0‡GitHub](https://github.com/mrohan2203/aeroviz-3d-routes/tree/main)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
 
-## Expanding the ESLint configuration
+- 3D globe visualization of global flight routes (source–destination arcs)  
+- Interactive — users can pan, zoom, rotate the globe to explore routes  
+- Clean, modern UI built with React + Vite (fast refresh, hot-reloading)  
+- Responsive and web-native (works in modern browsers)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 097e0a0 (First commit - AeroVis3D app)
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14+ recommended)  
+- npm or yarn  
+
+### Install Dependencies
+
+```bash
+git clone https://github.com/mrohan2203/aeroviz-3d-routes.git
+cd aeroviz-3d-routes
+npm install
+# or: yarn
